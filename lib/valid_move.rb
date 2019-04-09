@@ -1,7 +1,7 @@
 # code your #valid_move? method here
 def valid_move?(move)
   if condition
-    
+
   end
 end
 
