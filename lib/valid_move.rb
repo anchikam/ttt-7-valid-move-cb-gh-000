@@ -17,4 +17,5 @@ def position_taken?(board, index)
     false
   elsif b == "X" or b == "O"
     true
+  end
 end
