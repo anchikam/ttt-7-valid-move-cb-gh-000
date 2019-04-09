@@ -3,7 +3,7 @@ def valid_move?(board, index)
   b = board[index]
   if index >= len(board)
     false
-  elsif position_taken?
+  elsif position_taken?(board, index)
     false
   else
     true
